@@ -1,0 +1,2 @@
+
+Developed a futuristic Smart College Parking Management System with AI-inspired vehicle tracking, entry management, analytics dashboard, and responsive cyber UI using HTML, CSS, JavaScript, and Chart.js.
